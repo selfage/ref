@@ -1,6 +1,6 @@
 {
   "name": "@selfage/ref",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "Wrap everything into a pointer/reference.",
   "repository": {
     "type": "git",
@@ -10,6 +10,8 @@
     "Ref",
     "Reference",
     "Pointer",
+    "Output",
+    "Argument",
     "TypeScript"
   ],
   "author": "Yuxuan Xie <teststaybaka@gmail.com> (http://www.yuxuanxie.com)",
