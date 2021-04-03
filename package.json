@@ -1,0 +1,31 @@
+{
+  "name": "@selfage/ref",
+  "version": "0.0.1",
+  "description": "Wrap everything into a pointer/reference.",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/selfage/ref.git"
+  },
+  "keywords": [
+    "Ref",
+    "Reference",
+    "Pointer",
+    "TypeScript"
+  ],
+  "author": "Yuxuan Xie <teststaybaka@gmail.com> (http://www.yuxuanxie.com)",
+  "license": "GPL-3.0-or-later",
+  "bugs": {
+    "url": "https://github.com/selfage/ref/issues"
+  },
+  "homepage": "https://github.com/selfage/ref#readme",
+  "main": "./ref.js",
+  "types": "./ref.d.ts",
+  "files": [
+    "**/*.d.ts",
+    "**/*.js"
+  ],
+  "devDependencies": {
+    "@selfage/tsconfig": "^1.0.4",
+    "typescript": "^4.2.3"
+  }
+}
