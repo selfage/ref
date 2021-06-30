@@ -1,5 +1,5 @@
 // Shorthand for reference.
-export interface Ref<T> {
+export class Ref<T> {
   val?: T;
 }
 
