@@ -1,6 +1,6 @@
 {
   "name": "@selfage/ref",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "Wrap everything into a pointer/reference.",
   "repository": {
     "type": "git",
@@ -15,7 +15,7 @@
     "TypeScript"
   ],
   "author": "Yuxuan Xie <teststaybaka@gmail.com> (http://www.yuxuanxie.com)",
-  "license": "GPL-3.0-or-later",
+  "license": "MIT",
   "bugs": {
     "url": "https://github.com/selfage/ref/issues"
   },
@@ -27,7 +27,7 @@
     "**/*.js"
   ],
   "devDependencies": {
-    "@selfage/tsconfig": "^1.0.7",
+    "@selfage/tsconfig": "^1.1.0",
     "typescript": "^4.2.3"
   }
 }
