@@ -1,6 +1,6 @@
 {
   "name": "@selfage/ref",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "Wrap everything into a pointer/reference.",
   "repository": {
     "type": "git",

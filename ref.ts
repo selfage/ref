@@ -1,6 +1,6 @@
 // Shorthand for reference.
 export class Ref<T> {
-  val?: T;
+  public constructor(public val?: T) {}
 }
 
 // Wraps `val` inside `ref` while returns `val`.
